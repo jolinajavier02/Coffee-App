@@ -7,12 +7,6 @@ This repository showcases the user journey through the CoffeeHouse mobile applic
 
 The CoffeeHouse app is designed to provide a seamless experience for users to browse coffee options, locate cafes, place orders, and manage their preferences. The following sections detail the key screens and the flow of interactions within the application.
 
-## Application Screens
-
-Below is a visual representation of the key screens within the CoffeeHouse app, demonstrating the user interface at various stages of interaction.
-
-![CoffeeHouse App Screens](Screen%20Shot%202024-09-22%20at%2018.44.03.jpg)
-
 ## User Flow Diagram and Explanation
 
 The diagram below illustrates the complete user flow for placing a group coffee order quickly and easily. This process is further elaborated in the step-by-step guide that follows.
